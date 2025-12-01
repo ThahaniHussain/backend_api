@@ -5,6 +5,7 @@
 - then run locally node server.js
 
 **Deployed API URL*
+"https://backend-api-s1o2.onrender.com"
 
 
 **endpoints with example request**
